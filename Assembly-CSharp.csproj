@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6FF818B6-5698-BE50-FE80-6D54B0F5CC10}</ProjectGuid>
+    <ProjectGuid>{A46D978A-144C-0AD6-238F-650DEE456BB9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,16 +57,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\BoxScript.cs" />
-    <Compile Include="Assets\Script\CameraScript.cs" />
     <Compile Include="Assets\Script\ForzaDrone.cs" />
-    <Compile Include="Assets\Script\PlayerScript.cs" />
-    <Compile Include="Assets\Script\DroneScript.cs" />
-    <Compile Include="Assets\Script\ActionTargetScipt.cs" />
-    <Compile Include="Assets\Script\GameControllerScript.cs" />
-    <Compile Include="Assets\Script\CarScript.cs" />
-    <Compile Include="Assets\Script\NextCheckPointScript.cs" />
     <Compile Include="Assets\Script\TitleScript.cs" />
     <Compile Include="Assets\Script\CheckPointScript.cs" />
+    <Compile Include="Assets\Script\CarScript.cs" />
+    <Compile Include="Assets\Script\NextCheckPointScript.cs" />
+    <Compile Include="Assets\Script\ActionTargetScipt.cs" />
+    <Compile Include="Assets\Script\DroneScript.cs" />
+    <Compile Include="Assets\Script\PlayerScript.cs" />
+    <Compile Include="Assets\Script\CameraScript.cs" />
+    <Compile Include="Assets\Script\GameControllerScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
